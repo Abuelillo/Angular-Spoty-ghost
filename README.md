@@ -1,3 +1,14 @@
+## INFO
+
+- # WEB INFO
+- (API) http://restcountries.eu/
+- (API REST SPOTY DOC) https://developer.spotify.com/dashboard/applications
+- ## Postman
+- POST : https://accounts.spotify.com/api/token | 
+(body : x-www-form-urlencoded) grant_type : client_credentials
+(body : x-www-form-urlencoded) client_id : 
+(body : x-www-form-urlencoded) client_secret : 
+
 # SpotiApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
