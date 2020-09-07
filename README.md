@@ -2,6 +2,7 @@
 
 - # WEB INFO
 - (API) http://restcountries.eu/
+- (icon) https://fontawesome.com/
 - (API REST SPOTY DOC) https://developer.spotify.com/dashboard/applications
 - ## Postman
 - POST : https://accounts.spotify.com/api/token | 
